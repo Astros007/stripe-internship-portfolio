@@ -62,4 +62,4 @@ A browser dashboard for a pulse-monitoring prototype. I built two views for live
 
 My website has project demos, research write-ups, and more about my technical experience.
 
-**[Visit sahiadhikari.me](https://sahiadhikari.me/)** · [View website source](https://github.com/Astros007/sahiadhikari.me)
+**[Visit my personal website](https://astros007.github.io/sahiadhikari.me/)** · [View website source](https://github.com/Astros007/sahiadhikari.me)
