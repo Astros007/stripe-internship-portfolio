@@ -2,7 +2,7 @@
 
 I’m a high school developer in Houston. My projects range from a walking and biking navigation app to sensor dashboards and machine learning research. I put this portfolio together for the Stripe high school software engineering internship application.
 
-[GitHub profile](https://github.com/Astros007) · [Personal portfolio](https://github.com/Astros007/sahiadhikari.me) · [Featured projects](#featured-projects) · [More projects](#more-projects)
+**GitHub** [github.com/Astros007](https://github.com/Astros007) · [Personal Website](#personal-website) · [Featured projects](#featured-projects) · [More projects](#more-projects)
 
 ## Featured projects
 
@@ -57,4 +57,9 @@ A browser dashboard for a pulse-monitoring prototype. I built two views for live
 | **GTA6Mafia** | A fan site with a mission timeline, map, and guide to standout vehicles. | [Live site](https://gta6mafia.org/) |
 | **Easy Free UGC Double Luck** | A game I built and published on Roblox. | [Play on Roblox](https://www.roblox.com/games/18908909465/Easy-Free-UGC-Double-Luck) |
 | **Launch Console** | A Python command-line menu that handles user input, validates choices, and loops until the user exits. | [Python source](https://github.com/Astros007/launch-console/blob/main/launch_console.py) |
-| **Personal portfolio** | A multipage site with interactive project pages, research write-ups, and technical experience. | [Website source](https://github.com/Astros007/sahiadhikari.me) |
+
+## Personal Website
+
+My website has project demos, research write-ups, and more about my technical experience.
+
+**[Visit sahiadhikari.me](https://sahiadhikari.me/)** · [View website source](https://github.com/Astros007/sahiadhikari.me)
