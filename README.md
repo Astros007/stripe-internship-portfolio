@@ -6,6 +6,10 @@ I’m a high school developer in Houston. My projects range from a walking and b
 
 ## Featured projects
 
+### TCA Ticketing App
+
+An event check-in app used to verify tickets and manage entry for **2,000 attendees**.
+
 ### Safr
 **JavaScript · Swift · OpenStreetMap · Valhalla**
 
